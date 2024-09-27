@@ -30,6 +30,25 @@ The UI is easy to understand. Users can easily use the website without any confu
 
    ```bash
    git clone [https://github.com/SadikMR/Tour-Planner.git]
+   ```
+
+## Docker Documentation
+
+### Setting up the environment
+
+Users with **docker** can easily get the native environment by using **docker-compose**. To setup up the environment simply issue the command:
+
+```sh
+   cd Tour-Planner
+   docker-compose up --build
+```
+
+Now navigate on your browser to `localhost:3000` or `127.0.0.1:3000` to run the project
+
+### Prerequisite
+
+- Docker environment setup or docker desktop
+- Mongodb and database setup
 
 ## Technologies Used
 List the frameworks, libraries, programming languages, databases, and any other tools you've used in your project:

@@ -10,6 +10,7 @@ The UI is easy to understand. Users can easily use the website without any confu
 ## Table of Contents
 
 - [Installation](#installation)
+- [Docker Documentation](#docker-documentation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
